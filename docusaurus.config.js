@@ -1,8 +1,8 @@
 module.exports = {
-  title: "Power's Wiki",
+  title: "Xcent's Wiki",
   //titleDelimiter: "🦖", // Defaults to `|`
-  tagline: "啥都玩的斜杠青年",
-  url: "https://wiki-power.com",
+  tagline: "江畔何人初见月？江月何年初照人？",
+  url: "https://xcent-blog.vercel.app",
   baseUrl: "/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
@@ -49,7 +49,7 @@ module.exports = {
     hideableSidebar: false,
 
     navbar: {
-      title: "Power's Wiki",
+      title: "Xcent's Wiki",
       hideOnScroll: false,
       // logo: {
       //   alt: 'My Site Logo',
@@ -65,7 +65,7 @@ module.exports = {
       ],
     },
     footer: {
-      style: 'dark',
+      style: 'light',
       // links: [
       //   {
       //     title: 'Docs',
@@ -111,7 +111,7 @@ module.exports = {
       //     ],
       //   },
       // ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      // copyright: `Copyright © ${new Date().getFullYear()} Wiki, Inc. Built with Xcent.`,
     },
 
     stylesheets: [
