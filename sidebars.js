@@ -10,7 +10,7 @@ module.exports = {
     //     'Leader',  
     //   ],
     //  },
-     {
+    {
       type: 'category',
       label: '高效利器',
       items: [ 
@@ -19,7 +19,20 @@ module.exports = {
         'Windows初始化与软件推荐',
         'Tools',
       ],
-     },
+    },
+    {
+      type: 'category',
+      label: '硬件开发',
+      items: [  
+      ],
+    },
+    {
+      type: 'category',
+      label: '软件开发',
+      items: [ 
+        '开发规范', 
+      ],
+    },
   ], 
   
 

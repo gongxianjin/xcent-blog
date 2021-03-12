@@ -1,6 +1,7 @@
 ---
 id: Tools
 title: Tools
+sidebar_label: 高效工具
 ---
 
 —— 利器分享
