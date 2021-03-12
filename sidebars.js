@@ -13,9 +13,10 @@ module.exports = {
     {
       type: 'category',
       label: '高效利器',
-      items: [ 
-        '构建知识管理系统',
-        '个人知识库的搭建-基于Docusaurus', 
+      items: [
+        '构建知识管理系统', 
+        '个人知识库的搭建-基于Docusaurus',
+        '搭建自己的图床',
         'Windows初始化与软件推荐',
         'Tools',
       ],
@@ -23,22 +24,22 @@ module.exports = {
     {
       type: 'category',
       label: '硬件开发',
-      items: [  
+      items: [
       ],
     },
     {
       type: 'category',
       label: '软件开发',
-      items: [ 
-        '开发规范', 
+      items: [
+        '开发规范',
       ],
     },
-  ], 
-  
+  ],
+
 
   // someSidebar: {
-    // Docusaurus: ['doc1', 'doc2', 'doc3'],
-    // Features: ['Home'],
+  // Docusaurus: ['doc1', 'doc2', 'doc3'],
+  // Features: ['Home'],
   // },
 
 };
