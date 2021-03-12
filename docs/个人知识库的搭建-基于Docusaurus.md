@@ -108,8 +108,19 @@ git config --global user.email "email@example.com"
 
 ## 总结
 
-这篇文章我们实现了基于 Docusaurus 的知识库的本地和云端部署。本文的过程中如果遇到问题，可以联系我 [**微信**](https://wiki-power.com/WeChat) 反馈。在下一篇文章【待更新】中，我将对个性化的配置做详细的讲解。
 
+
+这篇文章我们c实现了基于 Docusaurus 的知识库的本地和云端部署。本文的过程中如果遇到问题，可以联系我 [**微信**](https://wiki-power.com/WeChat) 反馈。在下一篇文章【待更新】中，我将对个性化的配置做详细的讲解。
+
+
+ github.com 的响应时间过长
+
+
+192.30.255.113 github.com
+#备用地址1
+#13.250.177.223 github.com   
+#备用地址2
+#52.74.223.119  github.com
 
 
 
