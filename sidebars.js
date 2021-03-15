@@ -14,7 +14,7 @@ module.exports = {
       type: 'category',
       label: '高效利器',
       items: [
-        '构建知识管理系统', 
+        '构建知识管理系统',
         '个人知识库的搭建-基于Docusaurus',
         '搭建自己的图床',
         'Windows初始化与软件推荐',
@@ -32,6 +32,13 @@ module.exports = {
       label: '软件开发',
       items: [
         '开发规范',
+      ],
+    },
+    {
+      type: 'category',
+      label: '后台搭建',
+      items: [
+        '需求文档',
       ],
     },
   ],
