@@ -115,13 +115,29 @@ git config --global user.email "email@example.com"
 
  github.com 的响应时间过长
 
-
+```
 192.30.255.113 github.com
 #备用地址1
 #13.250.177.223 github.com   
 #备用地址2
 #52.74.223.119  github.com
 
+#docker
+192.168.0.102 host.docker.internal
+192.168.0.102 gateway.docker.internal
+10.0.4.106 host.docker.internal
+10.0.4.106 gateway.docker.internal
+192.168.1.199 host.docker.internal
+192.168.1.199 gateway.docker.internal
+47.99.80.122 activity.api-iot.cn
+
+#Github
+151.101.193.194 github.global.ssl.fastly.net 
+13.229.188.59 github.com
+192.30.255.113 github.com
+199.232.28.133 raw.githubusercontent.com
+
+```
 
 
 ## 参考与致谢
