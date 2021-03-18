@@ -41,6 +41,13 @@ module.exports = {
         '需求文档',
       ],
     },
+    {
+      type: 'category',
+      label: '每日记录',
+      items: [
+        '每日一小步夯实基础01',
+      ],
+    },
   ],
 
 
