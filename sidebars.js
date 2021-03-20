@@ -39,6 +39,7 @@ module.exports = {
       label: '后台搭建',
       items: [
         '需求文档',
+        '问题记录',
       ],
     },
     {
