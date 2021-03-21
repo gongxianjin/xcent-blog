@@ -49,6 +49,13 @@ module.exports = {
         '每日一小步夯实基础01',
       ],
     },
+    {
+      type: 'category',
+      label: '随笔历史',
+      items: [
+        'sosoHistory',
+      ],
+    },
   ],
 
 
