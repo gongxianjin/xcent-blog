@@ -25,7 +25,8 @@ module.exports = {
       type: 'category',
       label: '硬件开发',
       items: [
-        'PlatformIO插件安装'
+        'PlatformIO插件安装',
+        '爱上processing51串口通信',
       ],
     },
     {
